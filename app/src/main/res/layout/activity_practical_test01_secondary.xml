@@ -29,5 +29,4 @@
             android:text="@string/button_cancel" />
 
     </LinearLayout>
-
 </LinearLayout>

@@ -11,6 +11,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.PracticalTest01">
+        <!-- pentru a doua activitate-->
         <activity
             android:name=".PracticalTest01SecondaryActivity"
             android:exported="true">
@@ -19,6 +20,7 @@
         <category android:name="android.intent.category.DEFAULT" />
         </intent-filter>
         </activity>
+        <!--pentru activitatea principala-->
         <activity
             android:name=".MainActivity"
             android:exported="true">
